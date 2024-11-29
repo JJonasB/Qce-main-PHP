@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kyusi Esports</title>
     <link rel="stylesheet" href="css/QCE.css">
-
     
 <body>
     <div class="wrapper">
@@ -41,6 +40,6 @@
 
     </body>
 
-    <script src="javascript/index.js"></script>
+    <script src="javascript/QCE.js"></script>
 </body>
 </html>
