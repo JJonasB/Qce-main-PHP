@@ -176,3 +176,19 @@ img.displaySlide {
         font-family: 'ZuumeEL', sans-serif; 
     }
 }
+
+.navbar li a:hover, 
+        .navbar li a.home {
+            color: var(--main-color);
+        }
+
+        .navbar li a.home::after, 
+        .navbar li a:hover::after {
+            content: "";
+            width: 25%;
+            height: 2px;
+            background: #fd3029;
+            position: absolute;
+            bottom: -4px;
+            left: 20px;
+}
