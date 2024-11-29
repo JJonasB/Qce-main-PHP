@@ -20,12 +20,11 @@
             </a>
 
             <ul class="navbar">
-                <li><a href="index.php" class="active">Home</a></li>
+                <li><a href="index.php" class="">Home</a></li>
                 <li><a href="QCEnews.php" class="news">News</a></li>
                 <li><a href="QCEFAQ.php" class="faq">FAQ</a></li>
-                <li><a href="QCEmembership.php" class="member">Membership</a></li>
-                <li><a href="QCesports.php" class="esports">Esports</a></li>
                 <li><a href="QCEshop.php" class="shop">Shop</a></li>
+                <li><a href="QCesports.php" class="esports">Esports</a></li>
             </ul>
 
             <div class="header-main">
